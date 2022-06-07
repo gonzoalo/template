@@ -3,6 +3,6 @@
 ```
 
 And, you can refer specific lines as
-```python:tests/src/sample.py [4-5]
+```python:tests/src/sample.py [1-2]
  
 ```
